@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>修改信息</title>
+    <link href="style-update.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<div id="c1">
+    <form action="" method="post">
+        <table>
+            <caption>修改信息</caption>
+            <tr>
+                <td>部门编号：</td>
+                <td><label>
+                    <input type="text" name="id" readonly>
+                </label></td>
+            </tr>
+            <tr>
+                <td>部门名称：</td>
+                <td><label>
+                    <input type="text" name="name">
+                </label></td>
+            </tr>
+            <tr>
+                <td>部门位置：</td>
+                <td><label>
+                    <input type="text" name="local">
+                </label></td>
+            </tr>
+        </table>
+        <input id="button" type="button" value="修改" onclick="window.history.back()">
+    </form>
+</div>
+</body>
+</html>

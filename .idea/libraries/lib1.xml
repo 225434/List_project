@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/oa pro plus/out/artifacts/oa_pro_plus_war_exploded/WEB-INF/lib/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/oa pro plus/out/artifacts/oa_pro_plus_war_exploded/WEB-INF/lib/lib/mysql-connector-java-8.0.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/oa pro plus/out/artifacts/oa_pro_plus_war_exploded/WEB-INF/lib/lib/jsp-api-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

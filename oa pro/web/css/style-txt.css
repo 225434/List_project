@@ -1,0 +1,8 @@
+#main {
+    column-count: 1;
+    column-width: 400px;
+    left: 50%;
+    width: 40%;
+    margin-left: -20%;
+    position: absolute;
+}

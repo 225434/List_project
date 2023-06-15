@@ -1,0 +1,19 @@
+#c1 {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+}
+
+table {
+    align-self: center;
+    position: relative;
+}
+
+#button {
+    background-color: #4662d9;
+    color: #fbfbfb;
+    height: 30px;
+    width: 80px;
+    border: none;
+    font-size: medium;
+}

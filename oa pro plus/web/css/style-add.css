@@ -1,0 +1,50 @@
+#c1 {
+    /* 水平居中 */
+    left: 50%;
+    width: 30%;
+    margin-left: -15%;
+    /* 垂直居中 */
+    top: 40%;
+    height: 30%;
+    margin-top: -15%;
+    position: absolute;
+    border:solid 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding-left: 20px;
+    border-radius: 20px;
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+tr {
+    height: 40px;
+}
+
+.input {
+    height: 20px;
+    width: 200px;
+    margin-left: -15px;
+}
+
+table {
+    align-self: center;
+    position: relative;
+}
+
+#button {
+    margin-top: 30px;
+    background-color: #4662d9;
+    color: #fbfbfb;
+    height: 30px;
+    width: 80px;
+    border: none;
+    font-size: medium;
+    align-self: center;
+}
